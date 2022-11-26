@@ -11,7 +11,7 @@ Projeto desenvolvido para o desafio 2, Hackathon Radix 2022.
 
 ## Prototipação
 
-**Tela 1**
+**Tela 1 - Tela inicial do dashboard**
 ![tela1](https://user-images.githubusercontent.com/87051404/204065788-e5265787-1f25-4161-b794-7520c783042a.png)
 
 **Tela 2**
@@ -19,6 +19,12 @@ Projeto desenvolvido para o desafio 2, Hackathon Radix 2022.
 
 
 ## Tecnologias
+O sistema operacional utilizado foi o Linux Ubuntu. A IDE de desenvolvimento utilizada foi o VIM.
+
+As linguagens utulizadas foram:
+- C
+
+*Nenhum framework foi utilizado.*
 
 ## Time
 ![image](https://user-images.githubusercontent.com/87051404/204063603-fd78c558-2176-4d3a-9502-8202a9916a23.png)
