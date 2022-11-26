@@ -43,9 +43,11 @@ Para acessar nosso pitch, clique no botão abaixo:
 ## Prototipação
 
 **Tela 1 - Tela inicial do dashboard**
+
 ![tela1](https://user-images.githubusercontent.com/87051404/204065788-e5265787-1f25-4161-b794-7520c783042a.png)
 
 **Tela 2**
+
 ![tela2](https://user-images.githubusercontent.com/87051404/204065797-3c39e0d4-6e4d-4229-b0ae-d1e2eab5b137.png)
 
 Para visualizar o projeto no Figma, click no botão abaixo:
