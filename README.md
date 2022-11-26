@@ -1,11 +1,20 @@
 # Hackathon Radix 2022
 Projeto desenvolvido para o desafio 2, Hackathon Radix 2022.
 
+
+
 ## Desafio 2
 
 ## Problema
 
 ## Solução
+
+Para assistir nossa proposta de solução, clique no botão abaixo (min ):
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=TqbmhcLSnVk&t=3038s" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-282828?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 ## Motivo
 
