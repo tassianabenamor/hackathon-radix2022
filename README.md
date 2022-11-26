@@ -36,6 +36,10 @@ Para acessar nosso pitch, clique no botão abaixo:
 
 ## Motivo
 
+## Requisitos
+
+## Funcionalidades
+
 ## Prototipação
 
 **Tela 1 - Tela inicial do dashboard**
