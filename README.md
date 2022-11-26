@@ -4,8 +4,14 @@ Projeto desenvolvido para o desafio 2, Hackathon Radix 2022.
 
 
 ## Desafio 2
+Como podemos otimizar a logística de atendimento às unidades offshore, visando a redução de custos, de prazos e de transporte de cargas?
 
 ## Problema
+Este problema é causado devido a:
+- Descentralização de informações importantes;
+- Tomada de decisão fragmentada;
+- Complexidade das variáveis na tomada de decisão;
+- Não existência de uma ferramenta que integre o processo decisório;
 
 ## Solução
 
