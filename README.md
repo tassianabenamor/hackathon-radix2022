@@ -27,6 +27,13 @@ Para assistir nossa proposta de solução, clique no botão abaixo (minutagem 50
   <img src="https://img.shields.io/badge/Youtube-282828?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
+Para acessar nosso pitch, clique no botão abaixo:
+<br>
+<br>
+<a href="https://www.canva.com/design/DAFRUazUM1c/aCZPUfEF2X1ngowP_k1MFg/view?utm_content=DAFRUazUM1c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-282828?style=for-the-badge&logo=canva&logoColor=white">
+</a>
+
 ## Motivo
 
 ## Prototipação
