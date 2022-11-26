@@ -36,7 +36,7 @@ Para visualizar o projeto no Figma, click no botão abaixo:
 ## Tecnologias
 O sistema operacional utilizado foi o Linux Ubuntu. A IDE de desenvolvimento utilizada foi o VIM.
 
-As linguagens utulizadas foram:
+A linguagem utulizada foi:
 - C
 
 *Nenhum framework foi utilizado.*
