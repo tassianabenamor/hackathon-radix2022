@@ -15,7 +15,7 @@ Este problema é causado devido a:
 
 ## Solução
 
-Para assistir nossa proposta de solução, clique no botão abaixo (min ):
+Para assistir nossa proposta de solução, clique no botão abaixo (minutagem 50:12):
 <br>
 <br>
 <a href="https://www.youtube.com/watch?v=TqbmhcLSnVk&t=3038s" target="_blank">
