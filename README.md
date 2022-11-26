@@ -17,6 +17,12 @@ Projeto desenvolvido para o desafio 2, Hackathon Radix 2022.
 **Tela 2**
 ![tela2](https://user-images.githubusercontent.com/87051404/204065797-3c39e0d4-6e4d-4229-b0ae-d1e2eab5b137.png)
 
+Para visualizar o projeto no Figma, click no botão abaixo:
+<br>
+<br>
+<a href="https://www.figma.com/proto/zu7Xgk3lUnCKMiPa14inrD/Dashboard?node-id=1%3A2825&scaling=min-zoom&page-id=0%3A1" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-282828?style=for-the-badge&logo=figma&logoColor=white">
+</a>
 
 ## Tecnologias
 O sistema operacional utilizado foi o Linux Ubuntu. A IDE de desenvolvimento utilizada foi o VIM.
