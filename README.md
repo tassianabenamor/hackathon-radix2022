@@ -57,7 +57,7 @@ Clique no nome e conheça nosso Linkedin:
 <a href="https://www.linkedin.com/in/natasha-criscia-91749518b/" alt="linkedin">Natasha Criscia</a> | 
 <a href="https://www.linkedin.com/in/eduardo-sidney-238201209/" alt="linkedin">Eduardo Sidney</a> | 
 <a href="https://www.linkedin.com/in/gustavo-sousa-dt/" alt="linkedin">Gustavo F Souza</a> | 
-<a href="https://www.linkedin.com/in/gabriel-guedes-0043b6249/" alt="linkedin">Gabriel Guedes</a> | 
+<a href="https://www.linkedin.com/in/gabriel-guedes-0043b6249/" alt="linkedin">Gabriel Guedes</a>
 
 <hr>
 
