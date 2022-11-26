@@ -13,7 +13,12 @@ Este problema é causado devido a:
 - Complexidade das variáveis na tomada de decisão;
 - Não existência de uma ferramenta que integre o processo decisório;
 
+Como a descentraçização de dados para acurácia na tomada de decisão:
+- Dificuldade de tomadas de decisão pelo planejador logístico devido a baixa confiabilidade das informações.
+
 ## Solução
+
+Eloview
 
 Para assistir nossa proposta de solução, clique no botão abaixo (minutagem 50:12):
 <br>
