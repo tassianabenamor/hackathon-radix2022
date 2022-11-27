@@ -49,7 +49,9 @@ Para acessar nosso pitch, clique no botão abaixo:
 
 
 **As funcionalidades do algoritmo desenvolvido para o MVP são:**
-- Processamento de dados.
+- Processamento de dados;
+- Centralização de pedidos;
+- Priorização de pedidos.
 
 **Sugestão de futuras funcionalidades:**
 - Integração front-end e back-end;
