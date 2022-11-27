@@ -38,10 +38,6 @@ Para acessar nosso pitch, clique no botão abaixo:
   <img src="https://img.shields.io/badge/Canva-282828?style=for-the-badge&logo=canva&logoColor=white">
 </a>
 
-## Motivo
-
-## Requisitos
-
 ## Funcionalidades
 
 ## Prototipação
