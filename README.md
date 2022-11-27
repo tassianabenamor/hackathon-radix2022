@@ -62,6 +62,8 @@ Para acessar nosso pitch, clique no botão abaixo:
 
 ## Prototipação
 
+As telas abaixo são uma ilustração de como o MVP seria implementado:
+
 **Tela 1 - Tela inicial do dashboard**
 
 ![tela1](https://user-images.githubusercontent.com/87051404/204065788-e5265787-1f25-4161-b794-7520c783042a.png)
