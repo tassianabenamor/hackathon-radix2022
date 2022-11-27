@@ -23,7 +23,7 @@ O MVP desenvolvido para o Hackathon Radix 2022 é um algoritmo que processa e en
 
 ## Soluções digitais
 
-Eloview é o produto digital desenvolvido pelo time. O produto consiste em ser um dashboard para visualização de dados com o objetivo de facilitar a tomada de decisão do planejador logístico para que a produção offshore não sofra perda ou interrupção de sua produção.
+Eloview é o produto digital desenvolvido pelo time. O produto consiste em ser um dashboard para visualização de dados com o objetivo de facilitar a tomada de decisão do planejador logístico para que a produção offshore não sofra perda ou interrupção de sua produção. Em outras palavras, o Eloview é uma interface interativa que fornece visualmente as informações que o planner necessita. 
 
 *Data Science:* Ferramenta seria utilizada para coletar e tratar os dados das solicitações, disponibilidade, viabilidade, local, tempo estimado de viagem e grau de prioridade.
 
