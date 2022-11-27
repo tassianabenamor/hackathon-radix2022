@@ -40,8 +40,9 @@ Para acessar nosso pitch, clique no botão abaixo:
 
 ## Funcionalidades
 
+
 **As funcionalidades do algoritmo desenvolvido para o MVP são:**
-- 
+- [...]
 
 **Sugestão de futuras funcionalidades:**
 - Integração front-end e back-end;
