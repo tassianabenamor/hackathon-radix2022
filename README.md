@@ -40,6 +40,18 @@ Para acessar nosso pitch, clique no botão abaixo:
 
 ## Funcionalidades
 
+**As funcionalidades do algoritmo desenvolvido para o MVP são:**
+- 
+
+**Sugestão de futuras funcionalidades:**
+- Integração front-end e back-end;
+- Login e autenticação de usuário;
+- Navegação entre páginas;
+- Visualização de notificações, confirmações de carga e contatos disponíveis na plataforma;
+- Visualização das rotas de embarcações;
+- Ferramenta de busca por palavras chaves na plataforma.
+
+
 ## Prototipação
 
 **Tela 1 - Tela inicial do dashboard**
