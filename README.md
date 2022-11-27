@@ -11,8 +11,11 @@ Este problema é causado devido a:
 - Complexidade das variáveis na tomada de decisão;
 - Não existência de uma ferramenta que integre o processo decisório;
 
-Como a descentralização de dados afeta a acurácia na tomada de decisão:
-- Dificuldade de tomadas de decisão pelo planejador logístico devido a baixa confiabilidade das informações.
+Como a descentralização de dados afeta a acurácia na tomada de decisão do planejador logístico:
+- Tomadas de decisão precipitadas;
+- Embarcações a mais, maior número de viagens;
+- Tempo de operação a mais;
+- Maiores custos para entrega de materiais, sejam eles críticos ou rotineiros.
 
 ## Sobre o projeto
 
