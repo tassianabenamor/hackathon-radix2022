@@ -11,12 +11,6 @@ Este problema é causado devido a:
 - Complexidade das variáveis na tomada de decisão;
 - Não existência de uma ferramenta que integre o processo decisório;
 
-Como a descentralização de dados afeta a acurácia na tomada de decisão do planejador logístico:
-- Tomadas de decisão precipitadas;
-- Embarcações a mais, maior número de viagens;
-- Tempo de operação a mais;
-- Maiores custos para entrega de materiais, sejam eles críticos ou rotineiros.
-
 ## Sobre o projeto
 
 O MVP desenvolvido para o Hackathon Radix 2022 é um algoritmo que processa e entrega para o planejador logístico o que é prioridade para o trabalho offshore. Isto porque o algoritmo recebe o item pedido e um valor entre 0 e 5, sendo que 0 é menos importante e 5 é de maior importância.
