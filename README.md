@@ -52,7 +52,7 @@ Para acessar nosso pitch, clique no botão abaixo:
 - Navegação entre páginas;
 - Visualização de notificações, confirmações de carga e contatos disponíveis na plataforma;
 - Visualização das rotas de embarcações;
-- Ferramenta de busca por palavras chaves na plataforma.
+- Ferramenta de busca por palavras chaves na ferramenta.
 
 
 ## Prototipação
