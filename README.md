@@ -1,8 +1,6 @@
 # Hackathon Radix 2022
 Projeto desenvolvido para o desafio 2, Hackathon Radix 2022.
 
-
-
 ## Desafio 2
 Como podemos otimizar a logística de atendimento às unidades offshore, visando a redução de custos, de prazos e de transporte de cargas?
 
@@ -15,6 +13,10 @@ Este problema é causado devido a:
 
 Como a descentralização de dados afeta a acurácia na tomada de decisão:
 - Dificuldade de tomadas de decisão pelo planejador logístico devido a baixa confiabilidade das informações.
+
+## Sobre o projeto
+
+O MVP desenvolvido para o Hackathon Radix 2022 é um algoritmo que processa e entrega para o planejador logístico o que é prioridade para o trabalho offshore. Isto porque o algoritmo recebe o item pedido e um valor entre 0 e 5, sendo que 0 é menos importante e 5 é de maior importância.
 
 ## Soluções digitais
 
