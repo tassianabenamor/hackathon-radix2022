@@ -22,7 +22,7 @@ Eloview é o produto digital desenvolvido pelo time. O produto consiste em ser u
 
 **Data Science:** Ferramenta seria utilizada para coletar e tratar os dados das solicitações, disponibilidade, viabilidade, local, tempo estimado de viagem e grau de prioridade.
 
-**CLoud Computing:** Ferramenta para centralizar os dados na nuvem, sendo necessário apenas um computador simples e acesso à internet nas plataformas.
+**Cloud Computing:** Ferramenta para centralizar os dados na nuvem, sendo necessário apenas um computador simples e acesso à internet nas plataformas.
 
 Para assistir nossa proposta de solução, clique no botão abaixo (minutagem 50:12):
 <br>
